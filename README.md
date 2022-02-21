@@ -2,6 +2,7 @@
 https://www.youtube.com/watch?v=XId1ndIqWb8
 
 How to RUN the project:
+- Download the zip file and unzip.
 - Open UnityHub
 - Select the folder where /Assets and /ProjectSettings are in
 - Select a version of Unity (Game is built on 2020.3.3f1, so if you happen to have this version, would be nice)
